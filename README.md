@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
+<h1 align="center">Hi 👋, I'm Parshant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Multi feature delivery app](Short video shading app)
